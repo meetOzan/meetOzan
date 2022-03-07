@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @meetOzan
-- 👀 I'm studying Computer Science in Trakya University
-- 🌱 I’m currently learning Kotlin and Java
-- 💞️ I’m looking to find new gf .
-- 📫 How to reach me: Answer is simple.From everywhere
+- 👀 I'm studying Computer Science in Trakya University . 
+- 🌱 I’m currently learning Kotlin and Java .
+- 💞️ I’m looking to find good sleep .
+- 📫 How to reach me: Answer is simple.From everywhere .
 
 <!---
 meetOzan/meetOzan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
