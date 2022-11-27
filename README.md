@@ -24,4 +24,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meetozan&show_icons=true&theme=synthwave&title_color=ffffff&text_color=ebebeb&bg_color=000000&locale=en&layout=compact" alt="meetozan" /></p>
 
+
+
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetozan&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ebebeb&bg_color=450e59&locale=en" alt="meetozan" /></p>
