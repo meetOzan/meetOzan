@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mert Ozan, I'm student of Computer Engineering</div>  
+## ***<div align="center">I'm Mert Ozan, I'm student of Computer Engineering</div>***  
   
 
 - ***💞️ I’m looking to find good sleep***  
@@ -15,7 +15,9 @@
 - ***🌱 I’m currently learning Kotlin***  
   
 
-![](https://pics.me.me/java-kotlin-android-42341044.png)  
+<div align="center">
+<img src="https://www.mememaker.net/static/images/memes/4773372.jpg" align="center" height="200" width="300" />
+</div>  
   
 
 <br/>  
@@ -27,20 +29,21 @@
 <div align="center">  
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
 
 <div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
 
-
+<div align="center">  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+</div>
 
 </td></tr></table>  
 
@@ -63,6 +66,11 @@
 <a href="https://medium.com/@mertozan" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+  
+
+<div align="center">
+<img src="" align="center" height="" width="" />
+</div>  
   
 
 <br/>  
@@ -97,17 +105,19 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mertozan-tr69&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=true" /></div>  
+<img src="https://media0.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif?cid=790b7611bfa4949d64df38834770faeb47b60bb05d1a0987&rid=giphy.gif&ct=s" align="left" height="100" width="100" />  
+  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mertozan-tr69&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=meetOzan&&style=flat-square)  
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=meetOzan&&style=flat-square" align="right" />
+</div>  
   
 
 <br/>  
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
