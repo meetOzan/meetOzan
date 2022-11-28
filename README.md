@@ -66,7 +66,7 @@ ______________
 
 ### 
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetOzan&hide_border=true&layout=compact" align="right" /></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetOzan&hide_border=true&layout=compact" align="center" /></div>
 
 
 
@@ -88,7 +88,7 @@ ______________
 
 ### 
 ___________________  
-<img src="https://media0.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif?cid=790b7611bfa4949d64df38834770faeb47b60bb05d1a0987&rid=giphy.gif&ct=s" align="center" height="100" width="100" />  
+<img src="https://media0.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif?cid=790b7611bfa4949d64df38834770faeb47b60bb05d1a0987&rid=giphy.gif&ct=s" align="left" height="100" width="100" />  
   
 
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=mertozan-tr69&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&bar_color=53b14f&bar_color_cover=true)  
