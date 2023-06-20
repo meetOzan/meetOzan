@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height=" " width="600" />
+<img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" align="center" height=" " width="600" />
 </div>  
   
 
-## ***<div align="center">I'm Mert Ozan, I'm student of Computer Engineering</div>***  
+## ***<div align="center">I'm Mert Ozan, I'm student of Computer Engineering & Android Developer</div>***  
   
 
 - ***💞️ I’m looking to find good sleep***  
@@ -12,8 +12,8 @@
 - ***📫 How to reach me: Answer is simple from everywhere***  
   
 
-- ***🌱 I’m currently learning Kotlin***  
-  
+- ***🌱 I’m currently learning Jetpack Compose***  
+
 
 <div align="center">
 <img src="https://www.mememaker.net/static/images/memes/4773372.jpg" align="center" height="200" width="300" />
@@ -64,23 +64,15 @@ ______________
 ## Github Stats  
 
 
+###
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meetOzan&show_icons=true&locale=en&layout=compact" alt="meetOzan" /></p>
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=meetOzan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+
 ### 
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetOzan&hide_border=true&layout=compact" align="center" /></div>
 
-
-
-### 
-
-
-
-
-
-
-
-
-   
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=meetOzan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
