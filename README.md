@@ -2,8 +2,6 @@
 <img src="https://raw.githubusercontent.com/verma-ashish-k/verma-ashish-k/a3263a1cc0ce7021b733e9e223a55ba2d004f569/hello-world.gif" align="center" height=" " width="600" />
 </div>  
 
-  
-
 ## ***<div align="center">I'm Mert Ozan, I'm student of Computer Engineering & Android Developer</div>***  
   
 <img src="https://media0.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" align="right" height="300" width="300" />
@@ -15,15 +13,10 @@
 
 - ***🌱 I’m currently learning Jetpack Compose***
 
-
-
-
 <div align="left">
 </div>  
   
-
 <br/>  
-
 
 ## My Skill Set  
 <div align="center">  
@@ -55,26 +48,13 @@ ______________
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## Github Stats  
 
-
-###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meetOzan&show_icons=true&locale=en&layout=compact" alt="meetOzan" /></p>
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=meetOzan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-
-### 
-
+<a href="https://github.com/meetOzan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=meetOzan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mert's github stats" /></a>  <a href="https://github.com/meetOzan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetOzan&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 <br/>  
-
-
 
 ### 
 ___________________  
