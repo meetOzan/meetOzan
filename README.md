@@ -51,8 +51,11 @@ ______________
 <br/>  
 
 ## Github Stats  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meetOzan&show_icons=true&locale=en&layout=compact" alt="meetOzan" /></p>
 
-<a href="https://github.com/meetOzan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=meetOzan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mert's github stats" /></a>  <a href="https://github.com/meetOzan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetOzan&layout=compact&theme=buefy&hide_border=true" /></a> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetOzan&show_icons=true&locale=en" alt="meetOzan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meetOzan&" alt="halilozcan" /></p>
 
 <br/>  
 
