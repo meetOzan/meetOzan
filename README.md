@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/verma-ashish-k/verma-ashish-k/a3263a1cc0ce7021b733e9e223a55ba2d004f569/hello-world.gif" align="center" height=" " width="600" />
+<img src="https://raw.githubusercontent.com/verma-ashish-k/verma-ashish-k/a3263a1cc0ce7021b733e9e223a55ba2d004f569/hello-world.gif" align="center" height=" " width="800" />
 </div>  
+
+<br/><br/>
 
 ## ***<div align="center">I'm Mert Ozan, I'm student of Computer Engineering & Android Developer</div>***  
   
@@ -28,12 +30,11 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="75" /></a>  
 </div>  
 
-### Social Media
+<br/><br/>
+
+## Social Media
 ______________  
 <div align="center">
-<a href="https://github.com/meetOzan" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/meetozan" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -50,12 +51,15 @@ ______________
   
 <br/>  
 
-## Github Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meetOzan&show_icons=true&locale=en&layout=compact" alt="meetOzan" /></p>
+## Github Stats 
+______________ 
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=meetOzan&" alt="meetOzan" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meetOzan&show_icons=true&locale=en&layout=compact" alt="meetOzan" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetOzan&show_icons=true&locale=en" alt="meetOzan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meetOzan&" alt="halilozcan" /></p>
 
 <br/>  
 
