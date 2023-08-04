@@ -4,13 +4,13 @@
 
 <br/><br/>
 
-## ***<div align="center">I'm Mert Ozan, I'm student of Computer Engineering & Android Developer</div>***  
+## ***<div align="center">I'm Mert Ozan, I'm a student of Computer Engineering & Android Developer</div>***  
   
 <img src="https://media0.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" align="right" height="300" width="300" />
 
 - ***💞️ I’m looking to find good sleep***  
 
-- ***📫 How to reach me: Answer is simple from everywhere***  
+- ***📫 How to reach me: The answer is simple from everywhere***  
   
 
 - ***🌱 I’m currently learning Jetpack Compose***
@@ -33,7 +33,6 @@
 <br/><br/>
 
 ## Social Media
-______________  
 <div align="center">
 <a href="https://twitter.com/meetozan" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -48,11 +47,16 @@ ______________
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+
+<br/>  
+
+<div align="center">
+<img src="**https://giphy.com/gifs/cat-robot-r2d2-CRUeELrgxrOAGPDwR3**" align="center" height="300" width="300" />
+</div> 
+
 <br/>  
 
 ## Github Stats 
-______________ 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetOzan&theme=dark&show_icons=true&locale=en" alt="meetOzan" /></p>
 
 <br/>
