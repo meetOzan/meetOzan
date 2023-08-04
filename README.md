@@ -48,13 +48,7 @@
 </a>  
 </div>  
 
-<br/>  
-
-<div align="center">
-<img src="**https://giphy.com/gifs/cat-robot-r2d2-CRUeELrgxrOAGPDwR3**" align="center" height="300" width="300" />
-</div> 
-
-<br/>  
+<br/> 
 
 ## Github Stats 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetOzan&theme=dark&show_icons=true&locale=en" alt="meetOzan" /></p>
