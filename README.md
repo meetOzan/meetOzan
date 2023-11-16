@@ -10,10 +10,11 @@
 
 - ***💞️ I’m looking to find good sleep***  
 
-- ***📫 How to reach me: The answer is simple from everywhere***  
-  
+- ***📫 How to reach me: The answer is simple from everywhere***
 
-- ***🌱 I’m currently learning Jetpack Compose***
+- - ***🧑‍🔬 I'm trying to master Jetpack Composee***
+  
+- ***🌱 I’m currently learning Kotlin Multiplatform***
 
 <div align="left">
 </div>  
