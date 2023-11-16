@@ -12,7 +12,7 @@
 
 - ***📫 How to reach me: The answer is simple from everywhere***
 
-- - ***🧑‍🔬 I'm trying to master Jetpack Composee***
+-  ***🧑‍🔬 I'm trying to master Jetpack Composee***
   
 - ***🌱 I’m currently learning Kotlin Multiplatform***
 
