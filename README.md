@@ -14,7 +14,7 @@
 
 -  ***🧑‍🔬 I'm trying to master Jetpack Composee***
   
-- ***🌱 I’m currently learning Kotlin Multiplatform***
+- ***🌱 I’m currently learning KMP***
 
 <div align="left">
 </div>  
