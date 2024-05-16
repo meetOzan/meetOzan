@@ -53,15 +53,17 @@
 <br/> 
 
 ## Github Stats 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetOzan&theme=dark&show_icons=true&locale=en" alt="meetOzan" /></p>
+
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=meetOzan&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" /> 
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetOzan&layout=compact&theme=dark" />
+</p>
+
+## 🔥 GitHub Streak
 
 <br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meetOzan&theme=dark" alt="meetOzan" /></p>
-
-<br/>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meetOzan&theme=dark&show_icons=true&locale=en&layout=compact" alt="meetOzan" /></p>
 
 <br/>  
 
